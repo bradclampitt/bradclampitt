@@ -53,7 +53,7 @@
                 <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=bradclampitt&theme=nord&show_icons=true&count_private=true" />
                 <br></br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bradclampitt&theme)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bradclampitt)](https://git.io/streak-stats)
 
 </td>
             <td width="50%" align="center">
