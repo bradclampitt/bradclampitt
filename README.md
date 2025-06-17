@@ -10,11 +10,11 @@
 ![](https://komarev.com/ghpvc/?username=bradclampitt&style=for-the-badge)
 
 <!-- Intro -->
-- 🔭 I’m currently working on **several Magento2 projects, a couple Bash/Shell projects and several home lab projects**
+- 🔭 I’m currently working on **several Magento2 projects, a couple Bash/Shell projects and several home lab projects.**
 - 🌱 I’m currently learning **Magento || Bash || || GraphQL || Flutter**
 - 👯 I’m looking to collaborate on **Magento || Bash || Flutter**
 - 🤔 I’m looking for help with **Magento || Flutter**
-- 💬 Ask me about #magento# #bash# #flutter
+- 💬 Ask me about #magento# #bash
 - 📫 How to reach me:  bradclampitt@gmail.com
 - ⚡ Fun fact: I use to be cool.
 
