@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **Magento || Bash || || GraphQL || Flutter**
 - 👯 I’m looking to collaborate on **Magento || Bash || Flutter**
 - 🤔 I’m looking for help with **Magento || Flutter**
-- 💬 Ask me about #magento# #bash
+- 💬 Ask me about #magento #bash
 - 📫 How to reach me:  bradclampitt@gmail.com
 - ⚡ Fun fact: I use to be cool.
 
