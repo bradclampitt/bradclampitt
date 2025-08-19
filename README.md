@@ -2,7 +2,7 @@
   <ul align="center">
     <summary>
         <h1 style="display: inline-block">Bradley R. Clampitt</h1><br>
-        <h4 style="display: inline-block">Vice President of Digital Systems @ Sokolin LLC</h2>
+        <h4 style="display: inline-block">VP of Digital Systems, Magento Developer, Solutions Architect</h2>
     </summary>
   </ul>
 </div>
@@ -22,7 +22,7 @@
 
 
 <div align="center">
-    <span><- ---  Image will go Here  --- -></span>
+    <span><- ---  Image will go Here Someday... --- -></span>
 </div>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/magento/magento-original.svg" title="Magento" alt="Magento" width="40" height="40"/>&nbsp;
